@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decompress File</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+</head>
+<body>
+
+    <h1>Decompressed File</h1>
+    <a href="{{ url_for('download_decompressed', filename=decompressed_file.split('/')[-1]) }}" download>
+        <button>Download Decompressed File</button>
+    </a>
+
+    <h2>Decompressed File Content</h2>
+    <pre>{{ decompressed_text }}</pre>
+    
+    <br>
+    <a href="/">Go back to home</a>
+
+</body>
+</html>

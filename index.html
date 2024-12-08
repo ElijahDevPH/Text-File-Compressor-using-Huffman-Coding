@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Compressor</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/three@0.134.0/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.dots.min.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        VANTA.DOTS({
+            el: "body",  // Apply the effect to the entire body
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x8882ff,
+            color2: 0xaa97dc,
+            backgroundColor: 0xd5d5ff,
+            showLines: false
+        });
+    });
+    </script>
+    <style>
+        /* Ensure body and html elements fill the entire page */
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        /* Apply some default styles to the body for content positioning */
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;  /* Vertically centers the content */
+            align-items: center;  /* Horizontally centers the content */
+            text-align: center;
+            color: #fff;
+        }
+
+        h1, h2 {
+            margin-bottom: 20px;
+        }
+
+        form {
+            margin: 20px;
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        button {
+            background-color: #8882ff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 50px; /* Rounded buttons */
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #aa97dc; /* Lighter purple on hover */
+        }
+
+        input[type="file"] {
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>File Compressor using Huffman Coding Algorithm</h1>
+
+    <!-- Form to upload file for compression -->
+    <h2>Upload a file to compress</h2>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Compress</button>
+    </form>
+
+    <hr>
+
+    <!-- Form to upload file for decompression -->
+    <h2>Upload a file to decompress</h2>
+    <form action="/decompress" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Decompress</button>
+    </form>
+
+</body>
+</html>

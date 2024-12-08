@@ -1,0 +1,2178 @@
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
+This is an example of text that will be compressed using Huffman coding. 
+Huffman coding is a popular algorithm for lossless data compression.
+It works by assigning shorter codes to frequently occurring characters and longer codes to less frequent characters.
+This makes it more efficient for encoding text where some characters appear more often than others.
+Huffman coding is used in many compression formats such as ZIP and JPEG.
+Let's see how well it can compress this sample text!
